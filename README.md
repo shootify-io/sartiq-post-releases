@@ -3,7 +3,7 @@
 Questo repository contiene esclusivamente i pacchetti ufficiali di Sartiq Post.
 Non contiene il codice sorgente.
 
-Versione pubblicata: **[0.2.49](https://github.com/shootify-io/sartiq-post-releases/releases/tag/v0.2.49)**.
+Versione pubblicata: **[0.2.50](https://github.com/shootify-io/sartiq-post-releases/releases/tag/v0.2.50)**.
 
 ## Installazione o aggiornamento
 
